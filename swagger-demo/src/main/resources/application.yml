@@ -1,0 +1,6 @@
+#控制是否开启swagger
+springfox:
+  documentation:
+    swagger-ui:
+      #true开启，false关闭
+      enabled: true
